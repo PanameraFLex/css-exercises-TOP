@@ -1,0 +1,19 @@
+.odd-number,.trois,.waso{
+	background-color: #f795a5;
+	font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+
+#unoID{
+	color: blue;
+	font-size: 36px;
+}
+
+.trois{
+	font-size: 24px;
+}
+
+#quarte{
+	font-size: 24px;
+	font-weight: bold;
+	background-color: rgb(142, 245, 142);
+}
